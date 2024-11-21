@@ -1,0 +1,52 @@
+---
+title: "Popper's text summary"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+This Popper's text explain the "problem of demarcation". \
+The principle is to find how to distinguish science from pseudo-science, to draw a line between them. 
+He also insist the nature of the problem isn't about the truth value of such practices, but upgrade the definition of science as pseudo-empirical method can fit the definition.
+Astrology do have such empirical proof using observation and horoscope, but Popper hardly consider that as science.
+
+He begin to define this problem during the collapse of the Austrian Empire. 
+At that time, a lot of new theory were created. The ones mention are Einstein’s theory of relativity, 
+Marx’s theory of history, Freud’s psycho-analysis, and Alfred Adler’s "individual psychology".
+Popular non-sense on those theory spread among student as the majority believe them to be false.
+In 1919, the confirmation of Einstein's theory on gravity by Eddington’s eclipse observations change the way of thinking of Popper
+While the other theories were still debated among students, 
+he begin to doubt them has being science but more like "primitive myth".
+
+Popper's friends that were fervent follower of Karl Marx, Freud and Alder theory explained that, 
+once "enlighten" to the truth, you can see verification of the theory everywhere.
+
+In fact, this explanatory power is behind Popper's doubt.
+Indeed, he remarked that any human behavior could be explained in the light of both Karl Marx and Adler theory. 
+When compared to Einstein's theory, which could be refuted with one observation,
+the lack of possibility to counter the other theory is the key for Popper's problem.
+
+This led him to make different conclusion between 1919 and 1920 :
+
+ - It is easy to obtain confirmation of a theory when looking for one in most cases.
+ - A confirmation of a theory count when doing a risky prediction, i.e expecting a behavior against a theory and not having it.
+ - A good scientific theory is as good as the prohibition it imply. 
+ - A theory with which you can't conceive an event that refute it isn't science. Popper say that "Irrefutability is not a virtue
+of a theory but a vice"
+ - A real test of a theory is to try to refute it, implying the necessity to be able to test the theory.
+ - Confirming evidences of a theory are failed attempt to refute the theory, and not attempt to see if the theory apply.
+ - Some theory, when found false, get some more details or assumption in order to "stay true". This kind of action diminish the scientific status of a theory.
+
+This can be sum up to saying a theory is as scientific as the testability, refutability, and/or falsiﬁability, it allow.
+
+Popper goes case by case to show the inaptitude for astrology and then each theory to be considered scientific.
+Astrology avoid refutation by being vague enough to explain any evidence of falsehood, effectively not allowing testability.
+Marx theory begin with testable prediction, which allow it's falsification later on. 
+But the adept of this theory decided to refuse this ans re-interpreted the theory to make it true again, removing the scientific statuts at the same time.
+Both Freud and Adler theory were irrefutable and non-testable. 
+
+Popper then insist on the fact that those theory, even if not scientific,
+still may hold importance or truth by remembering that "very nearly all—scientific theories originate from myth".
+
+He conclude by saying it's solution for the problem of demarcation is :
+In order to allow the rank of scientific statement, those statement must be capable of conﬂicting with possible, or conceivable, observations.
